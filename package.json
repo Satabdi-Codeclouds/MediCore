@@ -1,7 +1,17 @@
 {
-    "name": "hospital-admin-dashboard",
+    "name": "medicore-dashboard",
     "private": true,
-    "version": "0.0.0",
+    "version": "1.0.0",
+    "description": "Premium Hospital Admin Dashboard with React, Tailwind CSS, and Framer Motion",
+    "author": "MediCore Team",
+    "keywords": [
+        "hospital",
+        "admin",
+        "dashboard",
+        "react",
+        "tailwind",
+        "dark-mode"
+    ],
     "type": "module",
     "scripts": {
         "dev": "vite",
